@@ -16,3 +16,17 @@ unset($fruits['key1']); // 삭제
 echo "<pre>";
 print_r($fruits);
 echo "</pre>";
+
+/** result
+Array
+(
+    [0] => apple
+    [1] => mango
+    [2] => melon2
+    [3] => peach
+    [4] => a
+    [5] => b
+    [6] => c
+    [7] => d
+)
+*/
