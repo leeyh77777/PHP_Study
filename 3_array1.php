@@ -8,7 +8,7 @@ echo "<pre>";
 print_r($fruits);
 echo "</pre>";
 
-// 화살표 확인!
+// 화살표 확인!(: 대신 =>)
 $student = [
 	'id' => 20211118,
 	'name' => "이름",
