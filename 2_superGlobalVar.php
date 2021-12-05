@@ -19,3 +19,7 @@ function sum($num1, $num2) {
 	return $result;
 }
 echo sum(10, 20);
+
+/** result
+40
+*/
